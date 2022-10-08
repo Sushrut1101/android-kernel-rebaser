@@ -67,7 +67,7 @@ git commit -s -m "Import Remaining OEM Changes"
 
 cd -
 
-echo -e ${GREEN}"Your Kernel has been successfully rebased to ACK. Please check kernel/"${NORMAL}
+echo -e ${GREEN}"Your Kernel has been successfully rebased to ACK. Please check the kernel/ directory."${NORMAL}
 
 # Exit
 exit 0
